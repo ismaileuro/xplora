@@ -1,0 +1,129 @@
+.buttons {
+  display: flex;
+  justify-content: space-evenly;
+  width: 100%;
+  margin-top: 2rem;
+}
+.buttons button {
+  width: 18rem;
+  font-size: 1.2rem;
+  padding: 1.5rem;
+  border-radius: 20px;
+  border: none;
+}
+.socialRevolution {
+  color: white;
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+}
+.socialRevolution h1 {
+  font-size: 4rem;
+}
+.socialRevolution img {
+  align-self: flex-end;
+}
+.newEra {
+  color: white;
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.newEra h1 {
+  font-size: 4rem;
+  margin-right: 5rem;
+}
+.newEra .head {
+  display: flex;
+  align-items: center;
+}
+.newEra .head img {
+  width: 6rem;
+}
+.newEra button {
+  width: 18rem;
+  font-size: 1.2rem;
+  padding: 1.5rem;
+  border-radius: 999px;
+  border: none;
+  margin-top: 10rem;
+}
+.business {
+  color: white;
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.business h1 {
+  font-size: 4rem;
+}
+.business .head {
+  display: flex;
+  align-items: center;
+}
+
+.business button {
+  width: 18rem;
+  font-size: 1.2rem;
+  padding: 1.5rem;
+  border-radius: 999px;
+  border: none;
+  margin-top: 10rem;
+}
+.society {
+  color: white;
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.society h1 {
+  font-size: 4rem;
+}
+.society .head {
+  display: flex;
+  align-items: center;
+}
+.society img {
+  align-self: flex-end;
+}
+
+.society button {
+  width: 18rem;
+  font-size: 1.2rem;
+  padding: 1.5rem;
+  border-radius: 999px;
+  border: none;
+  margin-top: 3rem;
+}
+.signup {
+  color: white;
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.signup h1 {
+  font-size: 4rem;
+}
+.signup .form {
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 5rem;
+  border-radius: 3rem;
+}
+.signup .form input {
+  margin: 0.5rem;
+  padding: 0.5rem;
+  font-size: 1rem;
+  width: 20rem;
+}
